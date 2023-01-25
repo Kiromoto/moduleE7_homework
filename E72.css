@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.div-for-flags {
+    display: inline-block;
+    justify-content: space-around;
+    align-items: flex-start;
+
+}
+
+.dif-for-one-flag {
+    height: 180px;
+    width: 120px;
+}
